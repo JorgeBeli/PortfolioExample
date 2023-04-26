@@ -1,0 +1,26 @@
+.introContainer {
+    margin-inline: 10vw;
+}
+
+.introText {
+    width: 50%;
+}
+
+.introText h1 {
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+    margin-bottom: .5rem;
+}
+
+.introText p {
+    font-size: .80rem;
+    font-family: 'Poppins', sans-serif;
+    color: #999999;
+}
+
+.introSponsors {
+    margin-block: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

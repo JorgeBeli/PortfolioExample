@@ -1,0 +1,21 @@
+.pagesContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline: 10vw;
+    gap: 5rem;
+}
+
+.pagesContainer div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.pagesContainer div img {
+    margin: auto;
+}
+
+.pagesContainer div p {
+    color: #999999;
+}

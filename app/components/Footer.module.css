@@ -1,0 +1,14 @@
+.footerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 10vw;
+    padding-block: 1rem;
+    background-color: #2e3038;
+}
+
+.footerLogos {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
